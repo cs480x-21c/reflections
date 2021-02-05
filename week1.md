@@ -2,6 +2,8 @@
 
 ## Link: https://www.reddit.com/r/dataisbeautiful/comments/lcg4mq/oc_life_expectancy_vs_total_healthcare_spending/
 
+![alt text](https://i.redd.it/7fk1gzxmugf61.png)
+
 ## Description
 
 
