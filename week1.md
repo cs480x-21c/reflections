@@ -2,7 +2,7 @@
 
 ## Link: https://www.reddit.com/r/dataisbeautiful/comments/ickvfq/oc_two_thousand_years_of_global_temperatures_in/
 
-![alt text](images/2000yearsglobaltemp.png)
+![alt text | 400x400](images/2000yearsglobaltemp.png)
 
 ## Description
 
