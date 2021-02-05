@@ -11,7 +11,7 @@ Climate change has become a major topic now that the Biden Administration has tr
 The cost of climate disasters in the United States in 2015 was at least 1 Billion dollars in losses. From the range of 1980-2015, this cost was 5.2 billion.
 Cost of climate disasters in between 2011-2015 was estimated to be around 10.8 million dollars. This short span of 4 years causing twice the damage is a direct result of an exponential growth of global temperatures.
 
-The VIS was made using R with ggplot and ScreentoGIF.
+The VIS was made using R with ggplot and ScreentoGIF. The accuracy of the data comes from governmental databases, so this Vis is very accurate to represent global temperatures. The coloration helps to show the level of temperature deviation for each year on average, and helps sell the concern that global temperatures since the year 2000 are dangerously getting too warm.
 
 
 I was curious as to how scientists got global temperature data from almost 2000 years ago, and the main way they accomplish this is through studying ice cores. Small bubbles are formed inside the ice filled with atmospheric gases. This then allows them to study the air bubbles in a controlled lab enviornment to get a chemical makeup of the atmosphere of that time. From the levels of oxygen, carbon dioxide, and nitrogen gas scientsits can estimate the termpatures using empiral data on how gases hold heat in modern atmospheres. Super cool!
