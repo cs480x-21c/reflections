@@ -17,4 +17,4 @@ I think that this visualization clearly qualifies as art just as much as it does
 Because the main visualization is so large, the supporting graphs at the end help to give a quantitative look at the data being presented.  
 There is a lot of information being provided in the key and notes scattered around the final graph, which give short, helpful analyses of the data.  
 The middle graphs, the L/R gender breakdown and detailed legend, which I would consider to be a continuation of the storytelling part of the graphic, carried a lot of weight for me.  
-The legend in particular made me scroll back up to the main graphic more than once, just to look at each of the elements being visualized.
+The legend in particular made me scroll back up to the main graphic more than once, just to look at each of the elements being visualized. There is a lot demographic information encoded in those graphics, and each of them feels very personal.
