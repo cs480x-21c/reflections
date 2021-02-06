@@ -14,7 +14,7 @@ Cost of climate disasters in between 2011-2015 was estimated to be around 10.8 m
 The VIS was made using R with ggplot and ScreentoGIF. The accuracy of the data comes from governmental databases, so this Vis is very accurate to represent global temperatures. The coloration helps to show the level of temperature deviation for each year on average, and helps sell the concern that global temperatures since the year 2000 are dangerously getting too warm.
 
 
-I was curious as to how scientists got global temperature data from almost 2000 years ago, and the main way they accomplish this is through studying ice cores. Small bubbles are formed inside the ice filled with atmospheric gases. This then allows them to study the air bubbles in a controlled lab enviornment to get a chemical makeup of the atmosphere of that time. From the levels of oxygen, carbon dioxide, and nitrogen gas scientsits can estimate the termpatures using empiral data on how gases hold heat in modern atmospheres. Super cool!
+I was curious as to how scientists got global temperature data from almost 2000 years ago, and the main way they accomplish this is through studying ice cores. Small bubbles are formed inside the ice filled with atmospheric gases. This then allows them to study the air bubbles in a controlled lab enviornment to get a chemical makeup of the atmosphere of that time. From the levels of oxygen, carbon dioxide, and nitrogen gas scientsits can estimate the temperatures using empiral data on how gases hold heat in modern atmospheres. Super cool!
 
 
 
