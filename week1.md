@@ -1,7 +1,7 @@
-Week 1 Reflection: [Saharan dust moving into North Africa and Southern Europe](https://www.reddit.com/r/dataisbeautiful/comments/le1th1/saharan_dust_moving_into_north_africa_and/)
+Week 1 Reflection: Saharan dust moving into North Africa and Southern Europe
 ---
 
-For this week's reflection, I chose a visualization from r/dataisbeautiful. A [tweet](https://twitter.com/WMO/status/1358028244201611265), February 6th, from the World Meteorological Organization states that "a major intrusion of Saharan sand and dust has dramatically altered the skies over Europe". As a result the sky and snow across parts of Europe turned orange.
+For this week's reflection, I chose a [visualization](https://www.reddit.com/r/dataisbeautiful/comments/le1th1/saharan_dust_moving_into_north_africa_and/) from r/dataisbeautiful. A [tweet](https://twitter.com/WMO/status/1358028244201611265), February 6th, from the World Meteorological Organization states that "a major intrusion of Saharan sand and dust has dramatically altered the skies over Europe". As a result the sky and snow across parts of Europe turned orange.
 This visualization is a map of Europe and Africa with an animated progression of Saharan dust movement. The data used for the visualization ranges from February 4th to February 6th. There is also a colored scale for the Dust Extinction Aerosol Optical Thickness that ranges from 0.00 to 3.00. The colors in the scale are white, orange, purple and black.
 
 This visualization's purpose appears to present a specific range of a larger dataset. It might be interesting to see the same visualization with an extended range to understand what "normal" conditions look like.
