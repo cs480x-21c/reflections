@@ -12,9 +12,10 @@ Additionally, inorder to avoid over representation of injuries he limited it to 
 
 The data here was visualized using color saturation.
 Although there are plenty of visualisation techniques that could have been empirically more effective (such as position on a common scale),
-I believe that this choice was still very effective in this case.
+I believe that this choice was still very effective.
 The quick change in color at the top of chart helps to indicate how strongly correlated with white people those injuries were,
 and although the other injuries are still mostly white they are not as drastic in this limited scale. 
+As this chart is meant to entertain, the introduction of color makes this visualisation more inviting than the alternatives.
 
 ![Image][/reflections/assets/week1.png]
 
