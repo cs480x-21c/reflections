@@ -13,10 +13,10 @@ Readability and distinction are the two notable areas that should be improved up
 
 Images
 ===
-![](IMAGE.week1)
+![](IMAGE.week1.png)
 This first photo above is of the entire visualization.
 
-
+![](IMAGE2.week1.png)
 This second photo above is of the visualization for the featured paper *Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid* published in *Nature* in 1953.
 
 References
