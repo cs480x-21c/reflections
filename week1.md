@@ -1,0 +1,9 @@
+Clay Oshiro-Leavitt
+Reflection for Week 1
+2.8.2021
+
+Visualization link (https://www.reddit.com/r/dataisbeautiful/comments/lddh96/where_do_the_worlds_1_billion_sheep_live_oc/)
+
+For this week, I selected a visualization that was posted to Reddit's r/dataisbeautiful that maps the location of the world's ~1 billion sheep. I thought that this would be a nice break from the seemingly countless maps and visualizations relating to COVID, politics, and death. At first pass, this visualization does a decent job of showing relative densities of sheep. The areas that are known to have exceptional quantities of sheep (New Zealand) are a deep, vivid green while most of the United States and Canada are near-translucent. 
+
+However, there are multiple ways I believe this visualization could be improved. The visualization has no scale or numerical values of any kind. While it is great for showing relative populations of sheep, it's incredibly difficult to determine exactly how many sheep live in a location. The outlines of countries (or even just geographic features such as continents) would also be useful. Due to the coloring of the background, it is quite difficult to see where landforms end - this adds confusion over whether an area simply has few sheep, or if it is actually a body of water. The visualization also lacks interactivity. For a visualization that shows the entire world, I would love the ability to hover over specific countries (or even states/provinces/regions of countries) to see their sheep counts and densities. This would open up possibilities for more statistics and granular analysis of sheep populations. Instead, this visulaization is limited to a much more macro understanding of the world's sheep population.
