@@ -27,4 +27,8 @@ Heatmap:
 
 Because to create a map in MapboxGL there are many parameters to fill in, it is very
 flexible and powerful. This is why MapboxGL is such a popular library that people even
-developed a Python version for it
+developed a Python version for it.
+
+
+Resources: https://www.mapbox.com/gallery/
+          https://docs.mapbox.com/mapbox-gl-js/example/heatmap-layer/
