@@ -1,6 +1,10 @@
+# Reflection - Week 1
+
 For my reflection I chose a page from the Human Rights Campaign's (HRC) 2020 NCOD (National Coming Out Day) Youth Report, I remebered 
 reading their youth report in 2018 and liking the graphics, so I sought out the most recent report that they published. The 4th page 
 of the report is covered in graphics and visualizations of the make up of teenagers that are "out." The data comes from the HRC's own research.
+
+![Image][/reflections/assets/NCOD_Chart_Picture.png]
 
 This is a good example of exploratory visualization, giving the reader a general understanding of who is "out." In my opinion, the best part of the visualization
 is how immediately available all of the data is. I am really imporessed with how all of the information is succinctly presented, 
