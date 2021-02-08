@@ -1,0 +1,8 @@
+**Week 1: Visualizing Proteins (iCn3D et alia)**
+
+iCn3D: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6956771/
+
+NGL Viewer: https://academic.oup.com/bioinformatics/article/34/21/3755/5021685
+
+
+When I first used iCn3D, I found it rather frustrating to find the different modes and views it offered, but I've grown to appreciate it. It's hard to visualize proteins, and the views they offer are impressive. In looking for other viewers to compare it to, I was surprised to find how many others there really are - many similar to each other, and many with their own advantages and disadvantages. I found that I like protein viewer (pv, https://biasmv.github.io/pv/) for aesthetic appeal and approachability, but it lacks many of the labelling and identification tools that iCn3D has, making it better for an more general audience and less for a scientist. iCn3D is a great tool which has been justifiably chosen by national and international institutions to show proteins. Viewing proteins is a domain where 3D is incredibly justified; the structures dictate so much about what chemistry can occur, and while it would be interesting to try to visualize these macromolecules in a more 2D format, I can't hardly imagine it. I think chemistry in general could benefit from a more 3D appraoch. While there are suitable 2D representations of organic molecules, for instance, with wedges to indicate the z axis, I can't help but wonder how much computers could improve students' understanding of the 3D nature of chemical reactions, through the use of dynamic and interactive 3D modelling of molecules, something that neither paper nor physical ball-and-stick molecules can accomplish.
