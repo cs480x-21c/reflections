@@ -30,6 +30,6 @@ flexible and powerful. This is why MapboxGL is such a popular library that peopl
 developed a Python version for it.
 
 
-Resources: https://www.mapbox.com/gallery/
+Resource 1: https://www.mapbox.com/gallery/
 
-          https://docs.mapbox.com/mapbox-gl-js/example/heatmap-layer/
+Resource 2: https://docs.mapbox.com/mapbox-gl-js/example/heatmap-layer/
