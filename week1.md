@@ -11,6 +11,7 @@ styles that are available to developers. The followings are some examples.
 
 Decimal:
 
+![](images/filename decimal.png)
 
 Standard:
 

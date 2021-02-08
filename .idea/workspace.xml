@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee9ca1b5-c4b8-41f5-ae6f-e821e04f3920" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/blueprint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/decimal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/heat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/standard.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week1.md" beforeDir="false" afterPath="$PROJECT_DIR$/week1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -31,12 +36,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612750512736</updated>
-      <workItem from="1612750513932" duration="2185000" />
+      <workItem from="1612750513932" duration="2837000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="383" y="195" key="search.everywhere.popup" timestamp="1612757027044">
