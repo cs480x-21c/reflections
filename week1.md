@@ -1,0 +1,10 @@
+Nicholas Alescio
+Week 1 Reflection - February 7th, 2020
+
+This week, I will be reflecting on an animated visualization from Reddit's r/dataisbeautiful. (https://i.imgur.com/aru0z4S.mp4)
+
+The original reddit post can be found here: https://www.reddit.com/r/dataisbeautiful/comments/kvfn5h/oc_i_sent_out_over_100_applications_during_my/giy0c8j/
+
+For this visualization, I found it useful that the applications (represented as colored dots) were color coded based on their last "status". The majority of rejected applications never made any progress, rather, they were rejected with no intermediate assessment or interview. Similarly, many applications that moved forward into the "online assessment" category were also rejected, however applications that moved into the "interviews" category had a signifanctly less likely chance of being rejected. During the entire timespan (July 2 - Jan 9) there were also several applications that were never rejected but never made any progress.
+
+This visualization is nice in that is allows a viewer to easily follow the flow of several different applications and easily recognize trends among them. For example, it is easy to see that most applications that transitioned to an interview were much more likely to receive offers, whereas applications that did not lead to an interview never led to formal offers. However, there are some issues with this visualization. The biggest issue is that the numbers under the categories are not updated in real-time, despite the visualization being animated over a real time. One improvement to this visualization could be to store a maximum for each category while maintaining a real-time number of applications in the category for a given time. Another improvement could be to offer two types of differentiations between applications of different categories (for example, in addition to being different colors, applications from different categories or "statuses" could be transformed into different shapes for enhanced effectiveness).
