@@ -1,0 +1,5 @@
+![Data Vis Reflection 1](https://github.com/abell625/reflections/blob/master/DataVisReflection-1.jpg?raw=true)
+
+This is a data visualization of Superbowl winners in the past 35 years and their history of "Gatorade Showers", which is dumping the remaining gatorade on the head coach. I choose this visualization for a few reasons. Firstly, I thought it was neat that the creator edited the photos to be gray-scale except for the gatorade color. The gatorade color is also shown as a border around the image, except for the clear gatorade which is shown as white. Secondly, it shows the past 35 superbowl winners. One thing I might improve upon the image is increasing the resolution so that the text is more easily readable. As it currently stands, it's incredibly hard for me to read the small text. In the end, I felt that this was a timely and enjoyable visualization to look at and analyze.
+
+Original link: https://www.reddit.com/r/dataisbeautiful/comments/lfbihw/35_years_of_super_bowl_gatorade_showers_oc/
