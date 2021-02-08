@@ -11,16 +11,19 @@ styles that are available to developers. The followings are some examples.
 
 Decimal:
 
-![](images/filename decimal.png)
+![](images/decimal.png)
 
 Standard:
 
+![](images/standard.png)
 
 Blueprint:
 
+![](images/blueprint.png)
 
 Heatmap:
 
+![](images/heat.png)
 
 Because to create a map in MapboxGL there are many parameters to fill in, it is very
 flexible and powerful. This is why MapboxGL is such a popular library that people even
