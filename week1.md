@@ -14,4 +14,8 @@ I think it would have been a bit boring if the visualization was just a standard
 the data moving. This visualization caught my eye because it showed real time how the browsers changed popularity, which was an interactive
 way to show this data. 
 
-<!-- ![ScreenShot]  -->
+![ScreenShot](https://github.com/danyabaron/reflections/blob/master/assets/reflectionpic2.png)
+
+![ScreenShot](https://github.com/danyabaron/reflections/blob/master/assets/reflectionpic3.png)
+
+![ScreemShot](https://github.com/danyabaron/reflections/blob/master/assets/reflectionpic1.png)
