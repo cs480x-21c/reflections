@@ -4,9 +4,8 @@ For my reflection I chose a page from the Human Rights Campaign's (HRC) 2020 NCO
 reading their youth report in 2018 and liking the graphics, so I sought out the most recent report that they published. The 4th page 
 of the report is covered in graphics and visualizations of the make up of teenagers that are "out." The data comes from the HRC's own research.
 
-<img src="assets/week1.png" width="1000">
+<img src="assets/Week1Image.JPG" width="1000">
 
-![Image](week1.png)
 This is a good example of exploratory visualization, giving the reader a general understanding of who is "out." In my opinion, the best part of the visualization
 is how immediately available all of the data is. I am really imporessed with how all of the information is succinctly presented, 
 the reader can quickly glance at the page and get a solid understanding, and each part of the visualization also
