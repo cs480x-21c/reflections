@@ -18,7 +18,7 @@ Here is the EV Market Share since April of 2019:
 
 ## Description
 
-It's clear that Tesla has the advantage in market share currently, but I'm definitely curious about how this graph will look like in 10 years!
+It's clear that Tesla has the advantage in market share currently, but I'm definitely curious about how this graph will look like in 10 years! Chevrolet and Nissan are finally focusing their RnD research to develop their own EV vehicles to compete with Tesla. Internationally, companies like NIO and Kandi (both china based) are showing investors solid promises to a strong EV chain of vehicles to launch in the next couple years.
 
 
 ## Sources
