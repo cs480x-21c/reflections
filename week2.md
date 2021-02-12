@@ -16,6 +16,8 @@ Here is the EV Market Share since April of 2019:
 
 ![image](images/usEV.png)
 
+## Description
+
 It's clear that Tesla has the advantage in market share currently, but I'm definitely curious about how this graph will look like in 10 years!
 
 
@@ -29,3 +31,4 @@ Market share is worldwide.
 
 
 https://www.businessinsider.com/most-important-moments-tesla-history-2017-2
+https://cleantechnica.com/2019/05/24/visualization-2012-2019-us-electric-car-sales-this-is-a-must-see/
