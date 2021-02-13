@@ -1,0 +1,1 @@
+I didn't do reflections for week 1 because I was unaware that it was even an assignment, because for whatever reason, the reflections repo just didn't show up on the cs480x-21c github page. I couldn't even find assignment 2 until 3 days before it was due.
