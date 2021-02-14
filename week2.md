@@ -12,7 +12,7 @@ The only area of improvement that is noted right away deals with the spacing of 
 
 Images
 ===
-![Immersive Image](IMAGE.week2)
+![Immersive Image](IMAGE.week2.jpg)
 Pictured above is the data visualization of Vincent Van Gogh's letters.
 
 References
