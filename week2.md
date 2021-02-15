@@ -4,8 +4,6 @@
 This is an animated visualization shows the movements of ships and a single Whale
 trying to dodge the ships to find food in the Los Lagos area of Chile.
 
-![Whale](https://preview.redd.it/y1atvr4m1hf61.gif?format=mp4&s=4e4185c0fd9464155e53bbe20186ed2eed6bc1ac)
-
 The brown dots and lines indicate the docking points and movement trajectories of the ships.
 The movements of the whale are tracked by the color blue.
 
