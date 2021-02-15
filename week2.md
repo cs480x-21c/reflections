@@ -1,4 +1,4 @@
-![reflection][reflection_w2.png]
+![reflection](reflection_w2.png)
 
 This is a static visualization mapping enhancer interactions with nearby genes. This a fairly new concept in bioinformatics and could play a huge roll in genetic analysis, especially as the feild moves into the area of non-coding DNA.
 
