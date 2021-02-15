@@ -8,4 +8,4 @@ Twitter's turnaround is particularly interesting, as it seemed to dip in popular
 for quite some time. I think it will be interesting to see this type of visualization in a few years, especially with TikTok. I am curious
 to see how popular they will be in the next few years, if they will die out or manage to have a turnaround like Twitter's.
 
-![ScreenShot]
+![ScreenShot](https://github.com/danyabaron/reflections-1/blob/master/assets/social-media.png)
