@@ -16,6 +16,6 @@ The other interesting machine learning vis was "How do you Draw a Circle?" by Ni
 Finally, Ian Johnson visualized his neural network:
 
 
-![image](images/neuralnet.gif)
+![image](images/neuralnet.png)
 
 This is a visual representation of all the weights, nodes, and p-values of the neural network that work together to guess what kind of animal a doodle is. Each cluster contains doodles of similar stroke, shape, and design.
