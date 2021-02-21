@@ -1,24 +1,9 @@
-Here's how it works:
+<h1>Week 3 Reflection</h1>
+<h3>Reflection type: Viz Source and </h3>
+<h2>First Map of Mars Electric Currents: https://svs.gsfc.nasa.gov/13625, Source: https://svs.gsfc.nasa.gov/search/?keyword=432</h2>
 
-Every week, make an effort to explore the data visualization community
-Everyone has their preferred way of finding out more about a topic. You probably already come across visualizations in your daily life, either through news or social media. If you already feel "plugged in" to the data-driven world, by all means use those as reflection material.
+![Viz Display from link](images/week3Viz.PNG)
 
-Sources
-Following folks on Twitter (for some reason there are tons of datavis folks on Twitter)
-Reading visualization news blogs like FiveThirtyEight and The Upshot
-Diving into a domain of interest (biology, security, etc) and it's relation to visualization (see BioVis, VizSec for example)
-Wikipedia
-Reddit (/r/dataisbeautiful)
-Stack Overflow (check the d3 and ggplot2 tags)
-Academic / practitioner visualization blogs: eagereyes.org (he links to many others)
-...and hundreds of other ways.
-
-
-Before class, add a reflection on a writing of your choosing to the appropriate week in your fork of the repo
-There are few requirements for the reflection. I ask that you aim for 10 sentences at minimum.
-
-The form and overall length of the writing is up to you. This task is meant to give you the creative space for exploration in the the data viz world. Some suggestions about the kinds of refelctions we expect are agreements or disagreements with a paper or talk you find, a small introduction to a new visualization technique/technology that came out, improvements or future work for a visualization you find on a news website etc. I recommend including links so you can find the resources later on. You can make multiple entries if it suites you-- I could imagine calling on reflections as you generate ideas for your final project.
-
-To submit, make a pull request.
-
-
+<h2>Space Data Viz:</h2>
+<h3>I chose this source of space visuals because I was inspired by the landing of Perserverance this past week! As a kid the visualizations of
+space weather, missions, and other phenomena was what got me interested in STEM in the first place. In particular it was a video at a mueseum of the Mars rovers Spirit and Oppertunity. I think that space visualizations, while they may not necessarily be data driven like the animations I saw, are hugely important because of their ability to inspire. To find some more data driven viz's I searched NASA's Goddard Media Studios and found this viz on Martian atmospheric interactions with solar wind. I thought it was really interesting because the visuals come from a very complicated dataset collected by a orbiter measuring magnetic data. They had to plot this data by mapping it to its location relative to the planet, and Im not entirely sure what the magnitude and hue of the vectors represent about atmospheric electric currents but thats more due to me not being an expert in the field than the viz. They are using this data to analyze how Mars loses atmosphere to the solar wind's ionizing radiation. I think that it would be really cool to create some visualizations to have a daily space weather report. This could teach the public more about the danger of solar flares and potentially calm some people down about magnetic field reversals. </h3>
