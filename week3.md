@@ -1,0 +1,4 @@
+# Week 3 Reflection
+
+A particularly interesting set of visualizations I found recently are the visualizations stored on [nodexlgraphgallery.org](https://nodexlgraphgallery.org/). This website compiles network graphs created using [NodeXL](https://nodexlgraphgallery.org/Pages/AboutNodeXL.aspx), a graph-building tool/template for Excel. A lot of the examples in the gallery are built using Twitter data, such as [this visualization](https://nodexlgraphgallery.org/Pages/Graph.aspx?graphID=249089) which displays a graph of users who came up, were mentioned, or replied to in queries for "dataviz OR datavis" begining February 19. It's really interesting to see not only how large clusters can form and how they interact with each other, but also how some smaller, completely (or almost) disconnected clusters form as well.
+![Graoh of Twitter users in a query for "datavis OR dataviz"](./img/datavis-twitter.png)
