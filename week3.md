@@ -5,4 +5,4 @@ This visualization was interesting to me, as I really like traveling and seeing 
 
 With this map you can see the very populous regions of the world.
 
-![ScreenShot](https://github.com/danyabaron/reflections-1/blob/master/assets/social-media.png)
+![ScreenShot](https://github.com/danyabaron/reflections-1/blob/master/assets/mapping-world.png)
