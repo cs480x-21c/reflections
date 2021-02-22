@@ -1,0 +1,5 @@
+This week, I will be reflecting on a visualization detailing the probabilities of landing on any given Monopoly space using Markov Chains.
+
+The original reddit post can be found here: https://www.reddit.com/r/dataisbeautiful/comments/l3c9it/oc_probability_distribution_in_monopoly_using/
+
+This viz is really nice because, from a strategy perspective, it shows the viewer which properties are the most likely (and least likely) to be visited. This boosts the on-paper value of owning the properties significantly. (For example, trading the yellow properties for the orange properties might seem like an even trade, but in reality the orange properties are much more valuable when taking into consideration landing probabilities under normal game rules). It would be nicer if a. the properties were labeled and b. probabilities for Jail, Free Parking, Go to Jail, and Go were shown. It would also be nicer if there was an alternative graphic that ordered the heights of the bars for easy visual comparison.
