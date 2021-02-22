@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8514adce-5769-4a7b-a052-a0f3531e6821" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/week3.md" beforeDir="false" afterPath="$PROJECT_DIR$/week3.md" afterDir="false" />
-    </list>
+    <list default="true" id="8514adce-5769-4a7b-a052-a0f3531e6821" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613415847581</updated>
       <workItem from="1613415848881" duration="1251000" />
-      <workItem from="1613981906055" duration="2472000" />
+      <workItem from="1613981906055" duration="2980000" />
     </task>
     <servers />
   </component>
