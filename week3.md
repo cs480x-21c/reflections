@@ -15,6 +15,6 @@ specific country will be displayed.
 https://www.worldometers.info/coronavirus/country/us/
 
 There also some other data people can visualize on this website such as the world population.
-In general, this is not a very fancy designed website but very user friendly and ez to use :). As we learned in class, the function always goes first!
+In general, this is not a very fancy designed website but very user friendly and ez to use :). As we learned in class, the function always goes first! :)
 
 
