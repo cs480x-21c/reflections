@@ -12,10 +12,10 @@ There are two aspects to this data visuliation that should be addressed: the amo
 
 Images
 ===
-![Immersive Image](IMAGE.week3)
+![Immersive Image](IMAGE.week3.png)
 Pictured above is the data visualization while it is playing from the YouTube video.
 
-![Immersive Image 2](IMAGE2.week3)
+![Immersive Image 2](IMAGE2.week3.png)
 Pictured above is the data visualization once it has finsihed playing - noting the temperature changes in 2017 for the countries listed.
 
 References
