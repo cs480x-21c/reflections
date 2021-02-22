@@ -18,3 +18,5 @@ will only display the data on that date. This is pretty fun and
 powerful as well:
 
 ![](images/week2-2.png)
+
+Resource link: https://blog.mapbox.com/notable-maps-visualizing-covid-19-and-surrounding-impacts-951724cc4bd8
