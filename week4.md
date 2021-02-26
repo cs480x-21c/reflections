@@ -1,0 +1,7 @@
+Clay Oshiro-Leavitt
+Reflection for Week 4
+3.1.2021
+
+visualization( https://dashboard.transitmatters.org )
+
+For this week, I chose a data dashboard that contains multiple visualizations, rather than a singular visualization. This site was put together by a Boston transit advocacy group known as 'TransitMatters' and tracks rapid transit performance in the Boston area. This focuses on providing up to date statistics and alerts for transit service, by line. One particularly useful aspect of the site is the ability to drill down by line, station, and date, and the resulting data is presented in a color coded time series visualization. Each data point can then be inspected, with further information given for a specific point. Another interesting ascpect that I enjoy is that they have a selection of dates where 'interesting' events happen. These are events where there were at least one disruption, and allows for the user to see what happened and how the system recovered (or failed to). There are some ways that this platform could be improved. I would like to geographic overlay with heatmaps of average system performance. This could be rather useful for determining consistent transit failures and delays. This information could be used for riders to determine which parts of lines to avoid at certain times, and could be used by the MBTA itself for improving the system and station design.
