@@ -12,7 +12,7 @@ There are not any real improvements that I can note. The data visualization is e
 
 Images
 ===
-![Immersive Image](IMAGE.week4)
+![Immersive Image](IMAGE.week4.png)
 Pictured above is the visualization from the blog found in the citations. I could not copy nor save the image so it appears blurry. It would be better to see if from the website below.
 
 References
