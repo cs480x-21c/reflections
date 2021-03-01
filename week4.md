@@ -1,24 +1,8 @@
-Here's how it works:
+<h1>Week 3 Reflection</h1>
+<h3>Reflection type: Viz Review</h3>
+<h2>https://historicborders.app/?view=globe%20[OC]</h2>
 
-Every week, make an effort to explore the data visualization community
-Everyone has their preferred way of finding out more about a topic. You probably already come across visualizations in your daily life, either through news or social media. If you already feel "plugged in" to the data-driven world, by all means use those as reflection material.
+![Viz Display from link](images/week4Viz.PNG)
 
-Sources
-Following folks on Twitter (for some reason there are tons of datavis folks on Twitter)
-Reading visualization news blogs like FiveThirtyEight and The Upshot
-Diving into a domain of interest (biology, security, etc) and it's relation to visualization (see BioVis, VizSec for example)
-Wikipedia
-Reddit (/r/dataisbeautiful)
-Stack Overflow (check the d3 and ggplot2 tags)
-Academic / practitioner visualization blogs: eagereyes.org (he links to many others)
-...and hundreds of other ways.
-
-
-Before class, add a reflection on a writing of your choosing to the appropriate week in your fork of the repo
-There are few requirements for the reflection. I ask that you aim for 10 sentences at minimum.
-
-The form and overall length of the writing is up to you. This task is meant to give you the creative space for exploration in the the data viz world. Some suggestions about the kinds of refelctions we expect are agreements or disagreements with a paper or talk you find, a small introduction to a new visualization technique/technology that came out, improvements or future work for a visualization you find on a news website etc. I recommend including links so you can find the resources later on. You can make multiple entries if it suites you-- I could imagine calling on reflections as you generate ideas for your final project.
-
-To submit, make a pull request.
-
-
+<h2>Civilizations Over time</h2>
+<h3>I chose this visual because I thought it was a really incredible viz that held my attention for far longer than originally intended. I found this viz on r/dataisbeautiful and I spent about an hour going through the 10+ years provided and got to see what civilizations existed at the same time. This was super interesting because of the new things I learned, the context the visual provided, and a sense of scale that I hadnt appreciated. The new things I learned included the existance of entire civilizations I had never heard of which is mind blowing to me. The context provided was incredible in a spatial and temporal sense. I had no idea that the massachusetts bay colony and the holy roman empire existed at the same time, this visual really helped me break down preconcieved notions about history. The sense of scale provided by being able to one compare the size of civilizations next to each other is helpful but also seeing the worlds land become more separated and claimed over time was also interesting. The interactivity of this map is also key to its use. By being able to scroll and zoom around the map you can change the scope of how you view how the civilizations may have interacted. I thought looking at the globe and seeing asian civiliations and native american civilizations across the pacific and thought it was really interesting.</h3>
