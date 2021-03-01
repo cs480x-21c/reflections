@@ -36,4 +36,3 @@ My Sources:
 https://www.nrdc.org/stories/are-effects-global-warming-really-bad#:~:text=More%20frequent%20and%20severe%20weather,wetter%20and%20dry%20areas%20drier.
 
 https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2018/03/23/heres-how-scientists-reconstruct-earths-past-climates/#:~:text=One%20way%20to%20measure%20past,in%20ice%20sheets%20and%20glaciers.
->>>>>>> 7e7fd481f445292e7c3a824722ed032304d78341
