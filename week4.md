@@ -9,6 +9,9 @@ This video is a short animated VIS that shows the hours of daylight across the W
 This graph was also completly made with ggplot, and animation with another library ffmeg. These are tools we used in class, so this VIS can be done in this class. For the final project, if we decide to visualize some form of global data, we can use this project as an inspiration for it.
 
 
+One of the comments said, "I like the idea that, just for a little bit, the whole world has a 12 hour day/night, and we're all in sync.". This was not something I knew at all, that at certain times of the year, the Earth's entire surface gets an equal amount of sunlight. Conclusions like these can be made from this type of visual data.
+
+
 ![image](images/week4reflectionearth.png)
 
 
