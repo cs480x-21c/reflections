@@ -5,5 +5,3 @@ For this week’s reflection, I found the website, [OneZoom](https://www.onezoom
 There are several ways in which the tree can shape itself. By default, the tree is set to render in a spiral shape, though several others shapes such as a straight line or a more traditional node chart are also present. At first, I had issues navigating the tree as zooming in and out of the spiral felt a little tricky. I thought this was just how I had to navigate the site, some my problems were solved thanks to these alternate shapes. 
 
 Overall, I do like this site despite the flaws I have with it. I think it nails the presentation, it really puts into scope how massive the entire top is as you scroll more and more with seemingly no end. All of the tree shapes look nice and each provide their own advantages and disadvantages when it comes to navigation and representing data. The set up of the site allows for the user to discover new information they may not of even been looking for easily. 
-
->>>>>>> Stashed changes
