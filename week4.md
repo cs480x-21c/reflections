@@ -1,0 +1,5 @@
+![Data Vis Reflection 4](https://github.com/abell625/reflections-1/blob/master/DataVisReflection-4.png?raw=true)
+
+This visualization shows the different bite forces of various animals, both extinct and common, and compares them to various objects in pounds. I think this is a good example of a visualization that is fun to look at and informative, but probably not too useful to know or have on hand. Om addition, I feel as though a lot of the objects being compared against don't really make any sense. People probably don't know how heavy a Blue Whale's heart is, so having that to compare against a Wolf's bite isn't very helpful. I think if the creator of this visualization stuck to more common objects (Like cars, telephone poles, etc.) this visualization would probably be a lot more understandable. I do like how they take a sample of a lot of different types of animals, including larger and smaller mammals, reptiles, and even a bird and some fish.Overall, my thoughts are that the visualization is cool, but not very practical.
+
+Original link: https://www.alansfactoryoutlet.com/hubfs/bite-force-of-20-different-animals-3.png
