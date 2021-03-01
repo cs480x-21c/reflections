@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-https://tabsoft.co/2WeLhoZ
-=======
 # Reflection - Week 5
 
 For this week’s reflection, I found the website, [OneZoom](https://www.onezoom.org/life.html), which visualizes the evolution of life on Earth. This is visualized in the form of a tree where each branch represents a set of species. As you travel down the branch, the branch splits and the set of species narrows down. Along the branches, leaves are placed that describe a species as it came into existence. By clicking on a leaf, a popup appears showing information on the species from multiple sources such as Wikipedia or the Encyclopedia of Life. The visualization is explored through zooming in and out to explore branches and clicking and dragging to move around. Additional control options such as resetting the view back to the beginning, and zooming in and out are present as buttons on the bottom of the screen. Additionally, there is a search bar present at the top of the screen that allows the user to travel directly to a species of their choice.  
