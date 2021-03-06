@@ -1,0 +1,9 @@
+Clay Oshiro-Leavitt
+Reflection for Week 2
+2.15.2021
+
+visualization( https://www.reddit.com/gallery/libs0j )
+
+For this week, I found a graphic  that is rather significant for me. This is a breakdown of traumatic brain injuries by age and mechanism in the US for 2014. In that year, both my brother and I contributed to this dataset due to sports accidents. There are multiple elements of this visualization I like - the two bar graphs give a good overview of injury distributions as well as the what caused the injury. On the second graph that displays estimated number of injuries, you can see interesting trends in the data. Here, both the young adult (15-24) and elderly (75+) populations have significantly higher levels of of traumatic brain injuries than other age groups. You can also see clear trends in the injury mechanism over age groups. You can see correlations with age groups that are typically playing action sports (5-24) have high incidents of injuries caused by being unintentionally struck by/against an object. Meanwhile, the elderly have incredibly high rates of injury caused by unintentional falls.
+
+This kind of information could be interesting for assessing risk and how we can mitigate it in our lives. Thinking of my own life, my grandfather has taken an unfortunate number of falls due to poor balance and eyesight. This is especially troublesome for him, as the split level design of his house requires him to go up and down the stairs at least twice a day. A visualization such as this really draws attention to the outsized number of fall-related traumatic brain injuries afflicting the elderly population.
