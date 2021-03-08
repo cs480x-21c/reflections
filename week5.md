@@ -1,24 +1,8 @@
-Here's how it works:
+<h1>Week 5 Reflection</h1>
+<h3>Reflection type: Viz Review</h3>
+<h2>https://historicborders.app/?view=globe%20[OC]</h2>
 
-Every week, make an effort to explore the data visualization community
-Everyone has their preferred way of finding out more about a topic. You probably already come across visualizations in your daily life, either through news or social media. If you already feel "plugged in" to the data-driven world, by all means use those as reflection material.
+![Viz Display from link](images/week5iz.PNG)
 
-Sources
-Following folks on Twitter (for some reason there are tons of datavis folks on Twitter)
-Reading visualization news blogs like FiveThirtyEight and The Upshot
-Diving into a domain of interest (biology, security, etc) and it's relation to visualization (see BioVis, VizSec for example)
-Wikipedia
-Reddit (/r/dataisbeautiful)
-Stack Overflow (check the d3 and ggplot2 tags)
-Academic / practitioner visualization blogs: eagereyes.org (he links to many others)
-...and hundreds of other ways.
-
-
-Before class, add a reflection on a writing of your choosing to the appropriate week in your fork of the repo
-There are few requirements for the reflection. I ask that you aim for 10 sentences at minimum.
-
-The form and overall length of the writing is up to you. This task is meant to give you the creative space for exploration in the the data viz world. Some suggestions about the kinds of refelctions we expect are agreements or disagreements with a paper or talk you find, a small introduction to a new visualization technique/technology that came out, improvements or future work for a visualization you find on a news website etc. I recommend including links so you can find the resources later on. You can make multiple entries if it suites you-- I could imagine calling on reflections as you generate ideas for your final project.
-
-To submit, make a pull request.
-
-
+<h2>2020 Video Games</h2>
+<h3>I chose this visual because I thought it was a very interesting study to do and I thought it was something that could be a really interesting social experiement. If one created an app that functioned almost like a diary but it just logged daily activity you could create a daily generated  graph like this of daily activity. I think that visualization would be a really powerful reflective tool, but honestly kind of scary. This would best be done though as a part of a number of visualizations. I thought this one in particular was very relatable to my time in the pandemic, Im jealous of his colletion! I think this visual really would be best alongside other visuals that are more focused on data delivery, like stacked bar charts of data or graphs of change in hours played over time. This would provide an interesting tool as well as an interesting infographic to share how you spend your time! Making this visual seems rather difficult to do algorithmically though, given the mix of colors and oddly shaped area. In terms of improving this visual specifically, I think the use of labeling large areas but small ones could use some other kinda of identification method as Aviary Attorney was very hard to read. Also, the Y axis also confused me as it has no sign change past zero but it isnt symetrical which is hard for me to rationalize. This visual might have inspired a future viz project!/h3>
