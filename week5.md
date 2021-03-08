@@ -1,0 +1,3 @@
+https://dataviz.nbcnews.com/projects/20201221-plan-your-shot-map/index.html?map=pct-fully-vaccinated&initialWidth=760&childId=embed-20201221-plan-your-shot-map&parentTitle=MAP%3A%20Covid-19%20vaccination%20tracker%20across%20the%20U.S.&=
+
+This is a choropleth map of the US showing the vaccination rates of vaccines in the US. I don't love this map, I think that it could be remixed and improved. The color scale seems off. I think that they should have done a better job scaling the colors based on the maximum and minimum vaccination rates. I think that it would also be interesting to compare covid hospitalization rates within the last week.
