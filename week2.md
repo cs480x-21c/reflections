@@ -1,0 +1,5 @@
+
+
+The visualization I chose is at https://i.redd.it/9sud82eacy361.png.
+
+I chose this visualization because it represents data in a way I haven't seen before, that I think is also useful. It displays the biomass distribution of the animal kingdom, separated into different categories of animals. Each category of animal is represented by an image of that animal, with a size correlating with the distrubution of the category. I find it interesting that the visualization represents the size of each category through the sizes of the images. This visualization serves to compare distributions of distinct categories. Usually, a pie chart is used for this purpose. However, I find that showing the types of animals through images is more appealing to the audience. In my opinion, it also provides a better user experience because some audiences may not know examples of the types of animals in this visualization. I do have one criticism about this visualization, however. The images aren't ordered by size, so it is difficult to find the next category that is larger than a given category.
