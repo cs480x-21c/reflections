@@ -1,8 +1,8 @@
 Data vis -
 
 ![Overview](img/TwoSumLeetCode.png)
-![Zoom](img/TwoSumLeetCodeClick.png)
 ![Click](img/TwoSumLeetCodeZoom.png)
+![Zoom](img/TwoSumLeetCodeClick.png)
 
 After a submission on LeetCode the user is able to view a detailed vis showing how their solution stacks up to other solutions in both run time and memory usage. The view also can be used by highlighting a portion of the graph and individual bars can be selected to view the code used for a particular solution.
 
