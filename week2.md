@@ -1,0 +1,10 @@
+Week 2 Reflection
+
+Author: Nicholas Wood
+
+The refelction that I chose for this week can be seen here on [Reddit](https://www.reddit.com/r/dataisbeautiful/comments/lg2mo8/oc_average_police_salary_by_state/). The reason that I chose this as my data visualization for the week is it shows color mapping in a nice way.  I like the way that the data is displayed on this map.
+While it is simple in its nature in the data that it displays it is clean and straight forward. Something that I found really interesting about this data, was to look at the locations of where average poliece salary is the most and average salary is the least we can see that MA we are probably over the 100k threshold on paper which would fall into line with the MA cost of living being up there as roughly the third most expensive place to live in the world. 
+
+The other thing that I find intersting in this data is we can see a place like NY have somewhat skewed information. As someone who comes from NYC I know that the cost to live there is very high, so seeing the average income of the state be roughly lower. In addition to this, we can look at salary propotionate to crime rate. If we look at MA, it is roughly 8% lower than the national crime average per state which could be an indicatior that the higher salary influences the police to do their job more. However, this point is proven to be incorrect when we look at MS, one of the lowest paid states for police salary. Mississippi is also a very safe state to live in, even without the high salary, perhaps this gets some infuence from Mississippi being relatively cheap to live in. 
+
+Overall, I would agree with a lot of this data that is posed within the vis, however there are a lot more factors that could be dived into to see whether or not there are one or many factors, such as cost of living, that would infuence these salaries for police. The argument could have been made due to crime rate and subjective effort that the police force puts in, but to an extreem, that is dissapated by looking at the states MA and MS.
