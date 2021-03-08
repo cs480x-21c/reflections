@@ -1,0 +1,5 @@
+![Data Vis Reflection 5](https://github.com/abell625/reflections-1/blob/master/DataVisReflection-5.png?raw=true)
+
+This visualization shows the different type combinations for Pokemon. One of the reasons I like this visualization is because It's very easy to understand. Hovering over a connection between two different types also shows which pokemon have those two types. However, I don't think this visualization is without flaws though. First of all, it only shows pokemon with two types, meaning any pokemon that has only one type has been left out of this visualization. I do see the reasoning behind this decision, since this is meant to show dual tpyings easier, but it also skews the type categories towards types that typically have closely related secondary types, such as flying. In addition to that issue, the graph became a hairball mess of lines due to the number of connections, meaning it's hard to follow which connection leads where without hovering over it. 
+
+Original link: https://datacrayon.com/posts/statistics/data-is-beautiful/co-occurring-pokemon-types/
