@@ -26,9 +26,9 @@ You probably already come across visualizations in your daily life, either throu
 If you already feel "plugged in" to the data-driven world, by all means use those as reflection material.
 
 I imagine many of you will want to "plug in" more to the visualization ecosystem, however.
-Here are several ways you might do this: 
+Here are several ways you might do this:
 
-- Following folks on Twitter (for some reason there are tons of datavis folks on Twitter) 
+- Following folks on Twitter (for some reason there are tons of datavis folks on Twitter)
 - Reading visualization news blogs like FiveThirtyEight and The Upshot
 - Diving into a domain of interest (biology, security, etc) and it's relation to visualization (see BioVis, VizSec for example)
 - Wikipedia
@@ -40,11 +40,11 @@ Here are several ways you might do this:
 
 ## Writing Reflections
 
-There are few requirements for the reflection. 
-I ask that you aim for 10 sentences at minimum as a service to yourself and to others that take time to read what you've written. 
+There are few requirements for the reflection.
+I ask that you aim for 10 sentences at minimum as a service to yourself and to others that take time to read what you've written.
 Any less and the effectiveness of the reflection for learning may be lost.
 
-The form and overall length of the writing is up to you. 
-This task is meant to give you the creative space for exploration in the the data viz world. Some suggestions about the kinds of refelctions we expect are agreements or disagreements with a paper or talk you find, a small introduction to a new visualization technique/technology that came out, improvements or future work for a visualization you find on a news website etc. 
+The form and overall length of the writing is up to you.
+This task is meant to give you the creative space for exploration in the data viz world. Some suggestions about the kinds of reflections we expect are agreements or disagreements with a paper or talk you find, a small introduction to a new visualization technique/technology that came out, improvements or future work for a visualization you find on a news website etc. 
 I recommend including links so you can find the resources later on.
 You can make multiple entries if it suites you-- I could imagine calling on reflections as you generate ideas for your final project.
