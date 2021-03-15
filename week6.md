@@ -1,0 +1,5 @@
+https://www.reddit.com/r/dataisbeautiful/comments/m4fwhb/countries_of_the_world_correctly_sized_compared/
+
+Working on A4 made me think about map projections and whether there were any relatively-accurate depictions in terms of size but not necessarily locations, so it was a pretty funny coincidence that I found a neat diagram with just that (among other things). It's really cool to see the mostly-accurate sizes (albeit the water is quite different, and things would be bent differently on a sphere). The block visualization is also very helpful to have, so landmasses can also be seen more quantitatively. In fact, if it weren't for the block chart, I would not have picked the map on its own, and vice versa. They work together hand-in-hand very well.
+
+If I were to change anything, I think I would add an interactive feature to this map. More specifically, it would be great if I could drag-and-drop countries around to compare sizes more directly. Alternatively, it would be neat to highlight a country and see a number for its area.
