@@ -1,0 +1,3 @@
+http://uxblog.idvsolutions.com/2012/06/earthquakes-since-1898.html
+
+This data vis I found interesting as it maps the global recorded earthquakes since 1898 in a almost futuristic color scheme. While the information could be shown in a different way, they really did a good job of making the map interesting to look at. I especially like the gradient of colors they used for  the amount of earthquakes in a certain location, from darker blue to bright yellow/green. I do have a few critiques, however, and wish the continents were easier to distingush. With all the dark background, the land is hard to distinguish from the water and vice versa.

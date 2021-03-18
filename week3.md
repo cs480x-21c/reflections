@@ -1,0 +1,3 @@
+This is a work in progress website made by a current WPI sophomore Travis Thompson. He mapped the location of satellites in Earth's orbit from an API and mapped them to a 3D location on the screen. Travis was able to add a search bar as well as display the orbit path, velocity, and period of each satellite to provide more information. The satellites also move along their orbit on the site.  He plans on adding an about page and other features but I thought it was really interesting, especialyl being made by one of my really good friends.
+
+satellitesinspace.com
